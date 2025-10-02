@@ -1,8 +1,0 @@
-<resources>
-    <color name="ix_green">#34C759</color>
-    <color name="ix_blue">#007AFF</color>
-    <color name="ix_light_gray">#F0F0F0</color>
-    <color name="ix_bg_light">#FFFFFF</color>
-    <color name="ix_bg_dark">#121212</color>
-    <color name="ix_surface_dark">#2C2C2E</color>
-</resources>
