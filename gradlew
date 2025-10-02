@@ -1,7 +1,6 @@
-#!/usr/bin/env sh
+#!/bin/sh
 ##############################################################################
 ## Gradle start up script for UN*X
 ##############################################################################
-
-DIR="$(cd "$(dirname "$0")" && pwd)"
+DIR="$( cd "$( dirname "$0" )" && pwd )"
 exec "$DIR/gradle/wrapper/gradle-wrapper.jar" "$@"
